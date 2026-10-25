@@ -32,13 +32,11 @@ Tuhmo updates itself in the background, so you rarely need the update command. Y
 **Security:** signed with Tuhmo's Apple Developer ID, notarized by Apple, and checked against the SHA-256 in [`Casks/tuhmo.rb`](Casks/tuhmo.rb) before install.<br>
 **Already installed from the website?** Run the install command with `--adopt` and Homebrew takes it over.
 
+## Support
+
+**Questions about the app:** [support@tuhmo.com](mailto:support@tuhmo.com)<br>
+**Problems with this tap:** [open an issue](https://github.com/maketuhmo/homebrew-tap/issues)
+
 <br>
 
-<p align="center">
-  <sub>
-    <a href="https://tuhmo.com">Website</a> &nbsp;·&nbsp;
-    <a href="https://app.tuhmo.com">Web app</a> &nbsp;·&nbsp;
-    <a href="https://tuhmo.com/download">Windows</a> &nbsp;·&nbsp;
-    <a href="mailto:support@tuhmo.com">support@tuhmo.com</a>
-  </sub>
-</p>
+<p align="center"><sub>The cask definitions in this repository are released under the <a href="LICENSE">MIT License</a>. The Tuhmo app, name and logo are not covered by it.</sub></p>
