@@ -4,7 +4,9 @@
   <img src=".github/assets/homebrew.png" height="87" alt="Homebrew">
   <h1>Tuhmo for macOS</h1>
   <p>Clients, projects, tasks, documents and invoices in one workspace.</p>
-  <a href="https://tuhmo.com/download"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fdownload.tuhmo.com%2Flatest%2Flatest-mac.yml&query=%24.version&label=version&style=flat-square&color=111111" alt="Latest version"></a>
+  <a href="https://tuhmo.com/download"><img src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fdownload.tuhmo.com%2Flatest%2Flatest-mac.yml&query=%24.version&label=version&color=111111" alt="Latest version"></a>
+  <a href="#details"><img src="https://img.shields.io/badge/macOS-13%2B-111111?logo=apple&logoColor=white" alt="macOS 13+"></a>
+  <a href="#details"><img src="https://img.shields.io/badge/Apple%20silicon%20%7C%20Intel-universal-111111" alt="Apple silicon and Intel"></a>
 </div>
 
 <br>
